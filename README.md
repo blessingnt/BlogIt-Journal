@@ -10,5 +10,6 @@ I wanted to create this project to learn how to utilize Python and Django to cre
 ### Technologies
 - Python 3.9
 - HTML
+- Django 
 - Bootstrap 3
-- Django
+
